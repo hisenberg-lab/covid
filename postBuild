@@ -1,0 +1,2 @@
+#!/bin/bash
+voila covid_dashboard.ipynb --theme=dark
